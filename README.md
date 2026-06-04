@@ -27,36 +27,36 @@ Once the GUI opens, use it to import the device into Windows Autopilot.
 
 ## Step-by-Step Walkthrough
 
-**Step 8:** Type `API.bat` and press **Enter**.
+**Step 1:** Type `API.bat` and press **Enter**.
 
-![Step 8 - Type API.bat and press Enter](Screenshots/S1.webp)
+![Step 1 - Type API.bat and press Enter](Screenshots/S1.webp)
 
-**Step 9:** The batch file will run and launch the Autopilot Import GUI.
+**Step 2:** The batch file will run and launch the Autopilot Import GUI.
 
-![Step 9 - Autopilot Import GUI launches](Screenshots/S2.webp)
+![Step 2 - Autopilot Import GUI launches](Screenshots/S2.webp)
 
-**Step 10:** Enter your Group Tag and click **Save Group Tag**.
+**Step 3:** Enter your Group Tag and click **Save Group Tag**.
 
-![Step 10 - Enter Group Tag and click Save Group Tag](Screenshots/S3.webp)
+![Step 3 - Enter Group Tag and click Save Group Tag](Screenshots/S3.webp)
 
-**Step 11:** Now that the Group Tag is saved, click **Login and register device in AutoPilot**.
+**Step 4:** Now that the Group Tag is saved, click **Login and register device in AutoPilot**.
 
-![Step 11 - Click Login and register device in AutoPilot](Screenshots/S4.webp)
+![Step 4 - Click Login and register device in AutoPilot](Screenshots/S4.webp)
 
-**Step 12:** `Get-WindowsAutopilotImport` will install, and you will be prompted to enter your enrollment account. Enter it and click **Next**, then approve the sign-in request in your Authenticator app.
+**Step 5:** `Get-WindowsAutopilotImport` will install, and you will be prompted to enter your enrollment account. Enter it and click **Next**, then approve the sign-in request in your Authenticator app.
 
-![Step 12 - Enter your enrollment account and click Next](Screenshots/S5.webp)
+![Step 5 - Enter your enrollment account and click Next](Screenshots/S5.webp)
 
-![Step 12 - Approve the sign-in request in your Authenticator app](Screenshots/S6.png)
+![Step 5 - Approve the sign-in request in your Authenticator app](Screenshots/S6.png)
 
-**Step 13:** The device will begin to import.
+**Step 6:** The device will begin to import.
 
-![Step 13 - Device begins to import](Screenshots/S7.webp)
+![Step 6 - Device begins to import](Screenshots/S7.webp)
 
-**Step 14:** The device profile will begin assignment.
+**Step 7:** The device profile will begin assignment.
 
-![Step 14 - Device profile begins assignment](Screenshots/S8.webp)
+![Step 7 - Device profile begins assignment](Screenshots/S8.webp)
 
-**Step 15:** Once assignment has completed, the device will reboot automatically without interaction.
+**Step 8:** Once assignment has completed, the device will reboot automatically without interaction.
 
-![Step 15 - Device reboots automatically](Screenshots/S9.webp)
+![Step 8 - Device reboots automatically](Screenshots/S9.webp)
