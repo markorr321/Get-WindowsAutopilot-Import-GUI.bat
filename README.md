@@ -60,3 +60,7 @@ Once the GUI opens, use it to import the device into Windows Autopilot.
 **Step 8:** Once assignment has completed, the device will reboot automatically without interaction.
 
 ![Step 8 - Device reboots automatically](Screenshots/S9.webp)
+
+**Step 9:** If you use **Self-Deploying mode**, the device will initiate the enrollment automatically and begin the device preparation phase.
+
+![Step 9 - Device preparation phase begins automatically in Self-Deploying mode](Screenshots/S10.webp)
